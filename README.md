@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio Salmeron</h1>
+<h1 align="center">Welcome 👋, I'm Antonio Salmeron</h1>
 <h3 align="center">A passionate software developer from California</h3>
 
 - 🌱 I’m currently learning **Java**
