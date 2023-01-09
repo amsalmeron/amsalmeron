@@ -16,5 +16,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amsalmeron&show_icons=true&locale=en&layout=compact" alt="amsalmeron" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amsalmeron&show_icons=true&theme=cobalt&locale=en" alt="amsalmeron" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amsalmeron&theme=dark" alt="amsalmeron" /></p>
