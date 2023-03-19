@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mr.tonyboi@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact is **I walked the Camino de Santiago**
 
 <p align="center">
 </p>
