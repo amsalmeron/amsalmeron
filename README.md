@@ -1,11 +1,11 @@
 <h1 align="center">Welcome 👋, I'm Antonio Salmeron</h1>
 <h3 align="center">A passionate software developer from California</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C Programming** at 42Barcelona
 
 - 📫 How to reach me **mr.tonyboi@gmail.com**
 
-- ⚡ Fun fact is **I walked the Camino de Santiago**
+- ⚡ Fun fact is **I love to walk**
 
 <p align="center">
 </p>
