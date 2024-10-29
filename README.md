@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Antonio Salmeron</h1>
 <h3 align="center">A passionate software developer from California</h3>
 
-- 🌱 I’m currently learning **Python** in my free time
+- 🌱 I’m currently learning **C** in my free time
 
 - 📫 How to reach me **mr.tonyboi@gmail.com**
 
